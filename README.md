@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola 👋, Soy Diego!</h1>
-<h3 align="center"><bold>Apasionado desarrollador web de <span style={color: '#09f'} >Argentina</span></bold></h3>
+<h3 align="center"><strong>Apasionado desarrollador web de <span style="color: #09f;">Argentina</span></strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinsdiego17&label=Profile%20views&color=0e75b6&style=flat" alt="martinsdiego17" /> </p>
 
