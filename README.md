@@ -6,12 +6,11 @@
 - 🔭 Portafolio en proceso [https://github.com/MartinsDiego17](https://github.com/MartinsDiego17)
 
 <h3>Acerca de mí</h3>
-<p>Apasionado del desarrollo web con incesante interés y curiosidad por este hermoso mundo siempre<br /> queriendo adquirir nuevos conocimientos y habilidades que me potencien en carrera.</p>
+<p>Apasionado del desarrollo web con incesante interés y curiosidad por este hermoso mundo siempre<br /> queriendo adquirir nuevos conocimientos y habilidades que me potencien en carrera.</p><br /><br />
 
-- 🌱 Estudiando **CSS avanzado # TypeScript # Next ui # Next js avanzado # Tailwind CSS**
+ 🌱 Estudiando **CSS avanzado # TypeScript # Next ui # Next js avanzado # Tailwind CSS**
 
-- 📫 Contacto: **martinsdiego0513@outlook.es**
-
+ 📫 Contacto: **martinsdiego0513@outlook.es**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-martins-563954278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diego-martins-563954278/" height="30" width="40" /></a>
