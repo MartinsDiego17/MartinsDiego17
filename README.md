@@ -5,7 +5,7 @@
 
 - 🔭 Portafolio en proceso [https://github.com/MartinsDiego17](https://github.com/MartinsDiego17)
 
-- Acerca de mí **Apasionado del desarrollo web con incesante interés y curiosidad por este hermoso mundo siempre queriendo adquirir nuevos conocimientos y habilidades que me potencien en carrera.**
+<p>Acerca de mí Apasionado del desarrollo web con incesante interés y curiosidad por este hermoso mundo siempre<br /> queriendo adquirir nuevos conocimientos y habilidades que me potencien en carrera.</p>
 
 - 🌱 Estudiando **CSS avanzado # TypeScript # Next ui # Next js avanzado # Tailwind CSS**
 
