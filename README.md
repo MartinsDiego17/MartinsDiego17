@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinsdiego17&label=Profile%20views&color=0e75b6&style=flat" alt="martinsdiego17" /> </p>
 
-- 🔭 Portafolio en proceso [https://github.com/MartinsDiego17](https://github.com/MartinsDiego17)
+- ⚒️ Portafolio en desarrollo 
 
 <h3>Acerca de mí</h3>
 <p>Apasionado del desarrollo web con incesante interés y curiosidad por este hermoso mundo siempre<br /> queriendo adquirir nuevos conocimientos y habilidades que me potencien en carrera.<br /><br />En mi camino de aprendizaje, pude adquirir conocimientos sólidos en el campo, aportando en equipos de trabajo creando soluciones creativas y consistentes mayormente orientadas al front-end.</p>
