@@ -1,8 +1,6 @@
 <h1 align="center">Hola!</h1>
 <h2>
-  Soy Diego, un desarrollador de software fullstack especializado en servidores. Llevé a cabo numerosos proyectos y partícipe en algunos,
-  destacando como mi trabajo más importante a Zenda, un gestor de turnos gestionado por un psicólogo profesional. Actualmente estoy cursando
-  el segundo año de una tecnicatura en desarrollo de software y sigo realizando capacitaciones en modalidad autodidacta.
+Soy Diego, desarrollador de software fullstack especializado en el desarrollo de servidores. He participado en numerosos proyectos, destacando Zenda, un gestor de turnos para un psicólogo profesional. Actualmente curso el segundo año de una tecnicatura en desarrollo de software y me sigo capacitando de forma autodidacta.
 </h2>
 <h3>Acerca de mí</h3>
 
