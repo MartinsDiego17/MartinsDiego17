@@ -16,3 +16,5 @@ Soy Diego, desarrollador de software fullstack especializado en el desarrollo de
 - <a href="https://www.linkedin.com/in/diego-martins-563954278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
+<h4>Disponible para nuevos trabajos/proyectos</h4>
