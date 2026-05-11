@@ -1,4 +1,4 @@
-# 👋 Hola, soy Diego Martins
+# Hola, soy Diego Martins
 
 ### Desarrollador Fullstack orientado al backend y arquitectura de servidores
 
@@ -11,15 +11,15 @@ He participado en distintos proyectos personales y profesionales, destacando **Z
 
 ## 🚀 Sobre mí
 
-- 💻 Apasionado por la tecnología y el desarrollo de software
-- 🧠 En constante aprendizaje y mejora técnica
-- 🏃 Interesado en el deporte y el rendimiento físico
-- 🎵 Aficionado a la música
-- ⚡ En búsqueda de nuevas oportunidades laborales y proyectos freelance
+- Apasionado por la tecnología y el desarrollo de software
+- En constante aprendizaje y mejora técnica
+- Interesado en el deporte y el rendimiento físico
+-  Aficionado a la música
+- En búsqueda de nuevas oportunidades laborales y proyectos freelance
 
 ---
 
-# 🛠️ Stack Tecnológico
+# Stack Tecnológico
 
 ## 🎨 Frontend
 
@@ -95,7 +95,7 @@ He participado en distintos proyectos personales y profesionales, destacando **Z
 
 # 📌 Proyecto Destacado
 
-## 🧠 Zenda
+## Zenda
 
 Sistema de gestión de turnos desarrollado para un profesional de la salud mental.
 
