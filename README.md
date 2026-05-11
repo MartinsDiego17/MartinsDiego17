@@ -9,7 +9,7 @@ He participado en distintos proyectos personales y profesionales, destacando **Z
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 - Apasionado por la tecnología y el desarrollo de software
 - En constante aprendizaje y mejora técnica
